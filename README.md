@@ -1,1 +1,1 @@
-# Some_projects
+# Some Machine Learning projects
