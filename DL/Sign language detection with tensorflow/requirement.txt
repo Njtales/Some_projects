@@ -1,1 +1,16 @@
 ipykernel
+jupyter
+opencv-python
+pyqt5 
+lxml
+wget
+matplotlib
+lvis
+scipy
+protobuf==3.19.0
+matplotlib
+tensorflow.io
+tensorflow --upgrade
+tf-models-official
+Pillow
+pyyaml
